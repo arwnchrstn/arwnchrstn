@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full Stack Developer / Aspiring Software Engineer
 ----------------------------------------------------------
 
-I am an IT Fresh Graduate currently looking for a job related to Developer/Software Engineering any related roles to utilize my skills and experience. I have some knowledge in full stack development using MERN stack. I've gathered my skills by attending bootcamps and trainings and also watching from famous dev youtubers.
+I am an IT Fresh Graduate currently looking for a job related to Developer/Software Engineer any related roles to utilize my skills and experience, willing to learn and willing to be trained. I have some knowledge in full stack development using MERN stack. I've gathered my skills by attending bootcamps and trainings and also watching from famous dev youtubers.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [https://portfolio-arwnchrstn.netlify.app/](https://portfolio-arwnchrstn.netlify.app/)
