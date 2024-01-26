@@ -30,7 +30,8 @@ I am an IT graduate from Polytechnic University of the Philippines - Santa Rosa 
 ### Socials
 
 <p align="left"> </a> <a href="https://www.github.com/arwnchrstn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-<p align="left"> </a> <a href="https://www.linkedin.com/in/arwenceres" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<p> </a> <a href="https://www.linkedin.com/in/arwenceres" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+
   
 ### Badges
 
