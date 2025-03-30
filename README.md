@@ -8,7 +8,7 @@ I am a Full Stack Developer with almost 2 years of experience and currently work
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [https://rwnchrstn.onrender.com](http://rwnchrstn.onrender.com)
-* ✉️  You can contact me at [ceres703@gmail.com](mailto:ceres703@gmail.com)
+* ✉️  You can contact me at [ceres.arwenchristian@outlook.com](mailto:ceres.arwenchristian@outlook.com)
 
 ### Skills
 
