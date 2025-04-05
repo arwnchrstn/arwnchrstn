@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer/Engineer
 -----------------------------
 
-I am a Full Stack Developer with almost 2 years of experience and currently working as a Full Stack Engineer. My current tech stack is JavaScript/TypeScript with some knowledge in Python for creating REST APIs using Flask.
+I am a Full Stack Developer with more than 2 years of experience and currently working as a Full Stack Engineer. My current tech stack is JavaScript/TypeScript with some knowledge in Python for creating REST APIs using Flask.
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [https://rwnchrstn.onrender.com](http://rwnchrstn.onrender.com)
