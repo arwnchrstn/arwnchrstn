@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arwen
 =============================================================================================================================
 
-Full Stack Developer/Engineer
+Full Stack Developer
 -----------------------------
 
 I am a Full Stack Developer with more than 2 years of experience and currently working as a Full Stack Engineer. My current tech stack is JavaScript/TypeScript with some knowledge in Python for creating REST APIs using Flask.
